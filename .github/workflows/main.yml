@@ -1,24 +1,20 @@
-name: WakaReadme CI
 
+name: Waka Readme
+ 
 on:
   push:
-    branches: [master]
-  pull_request:
-    branches: [master]
+    branches:
+      - master
   workflow_dispatch:
-
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+ 
 jobs:
-  UnitTests:
+  update-readme:
+    name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@hazy1k
-      - name: Build docker image
-        run: |
-          # Clear existing cache
-          docker builder prune --force
-
-          # Build and run container (executes unit tests)
-          docker compose -p waka-readme -f ./compose.yml up --no-color --pull always --build --force-recreate
-
-          # Cleanup
-          docker compose -p waka-readme -f ./compose.yml down --rmi all
+      - uses: MartinYan623/waka-readme@hazy1k
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
