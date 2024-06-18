@@ -11,7 +11,7 @@ jobs:
   UnitTests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@hazyk
+      - uses: actions/checkout@hazy1k
       - name: Build docker image
         run: |
           # Clear existing cache
