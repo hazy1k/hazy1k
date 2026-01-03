@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- 优化后的标题横幅：字体缩小，描述更合适 -->
+  <!-- 优化后的标题横幅 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=hazy1k&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=white&desc=嵌入式开发者%20|%20硬件工程师%20|%20电力自动化爱好者&descAlignY=58" />
 
   # 👋 Hi, I'm hazy1k 👋
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=嵌入式Linux工程师+|+MCU开发+|+树莓派玩家;硬件驱动+电力自动化+电子技术爱好者;用代码点亮硬件，用硬件驱动未来)](https://git.io/typing-svg)
 
-  <!-- 社交链接（请替换为你的真实链接） -->
+  <!-- 社交链接（已补充邮箱和CSDN博客） -->
   <p align="center">
     <a href="https://github.com/hazy1k"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:a3023379126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
+    <a href="https://hazy1k.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="CSDN博客"/></a>
   </p>
 
   <!-- 访问统计 -->
@@ -87,24 +87,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hazy1k&theme=radical&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
-</div>
-
-<h2 align="center">🚀 精选项目（请替换为你的真实项目）</h2>
-
-<div align="center">
-  <!-- 示例：替换 repo 名为你的项目 -->
-  <a href="https://github.com/hazy1k/STM32-Quick-Start-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazy1k&repo=your-project1&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-  <a href="https://github.com/hazy1k/MSPM0-Quick-Start-Guide-Keil5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hazy1k&repo=your-project2&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/hazy1k?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" />
-  </a>
 </div>
 
 <h2 align="center">📈 GitHub 活动</h2>
