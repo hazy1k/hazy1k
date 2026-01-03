@@ -91,14 +91,8 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-<!-- 这里会自动生成 WakaTime 统计内容 -->
-<h2 align="center">📊 我的周编码统计（WakaTime）</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hazy1k&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" />
-</div>
-<!--END_SECTION:waka-->
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC371,100:FF5F6D&height=150&section=footer" />
