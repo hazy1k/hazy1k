@@ -7,7 +7,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=嵌入式Linux工程师+|+MCU开发+|+树莓派玩家;硬件驱动+电力自动化+电子技术爱好者;用代码点亮硬件，用硬件驱动未来)](https://git.io/typing-svg)
 
-  <!-- 社交链接（已补充邮箱和CSDN博客） -->
+  <!-- 社交链接 -->
   <p align="center">
     <a href="https://github.com/hazy1k"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:a3023379126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -66,10 +66,8 @@
 <h2 align="center">🛠️ 技能与工具</h2>
 
 <div align="center">
-  <!-- 第一行：核心语言与平台 -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,docker,cmake" />
   <br><br>
-  <!-- 第二行：嵌入式相关 -->
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ubuntu,debian,nginx,mysql,sqlite,postman,qt" />
 </div>
 
@@ -103,8 +101,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazy1k&theme=radical" width="100%" />
 </div>
 
+<!-- 修复后的动态语录（已更换更稳定的服务端并正确编码中文） -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9190&center=true&vCenter=true&width=600&height=80&lines=代码与硬件的融合，才是最美的工程;一个好的嵌入式工程师，要懂硬件也要懂软件;每一个调试都是一次成长" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=1000&color=FF9190&center=true&vCenter=true&width=600&lines=%E4%BB%A3%E7%A0%81%E4%B8%8E%E7%A1%AC%E4%BB%B6%E7%9A%84%E8%9E%8D%E5%90%88%EF%BC%8C%E6%89%8D%E6%98%AF%E6%9C%80%E7%BE%8E%E7%9A%84%E5%B7%A5%E7%A8%8B;%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E8%A6%81%E6%87%82%E7%A1%AC%E4%BB%B6%E4%B9%9F%E8%A6%81%E6%87%82%E8%BD%AF%E4%BB%B6;%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B0%83%E8%AF%95%E9%83%BD%E6%98%AF%E4%B8%80%E6%AC%A1%E6%88%90%E9%95%BF" />
 </div>
 
 <h3 align="center">🎉 感谢访问我的 GitHub 主页！</h3>
