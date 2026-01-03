@@ -1,22 +1,28 @@
 name: Update WakaTime Stats
-
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天更新
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 每天凌晨更新一次
+  workflow_dispatch:     # 支持手动触发
 
 permissions:
-  contents: write  # 关键：允许更新文件
+  contents: write      # 允许写入 README
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: athul/waka-readme@master  # 或你的 action
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: all_time   # 添加这一行，显示所有时间统计（就不会是 No activity）
-          SHOW_DAYS_OF_WEEK: true  # 可选，其他自定义
-          SHOW_LANGUAGE: true
-          # 其他参数...
+          # --- 核心自定义参数（想显示更多数据就加这些） ---
+          TIME_RANGE: all_time               # 显示所有历史数据（你已有）
+          SHOW_TITLE: true                   # 显示标题，如 “📊 My WakaTime Stats”
+          SHOW_TIME: true                    # 显示每个语言的具体时间（默认 true）
+          SHOW_TOTAL: true                   # 显示总编码时间（如 “Total Time: 359 hrs 54 mins”）
+          SHOW_DAYS_OF_WEEK: true            # 显示一周活跃天数（你已有）
+          SHOW_LANGUAGE: true                # 显示语言统计（你已有）
+          LANG_COUNT: 10                     # 显示前 10 种语言（默认通常是 5，增加这个可以看到更多）
+          BLOCKS: "░▒▓█"                     # 进度条样式（可改成 "⣀⣤⣶⣿" 等更酷的）
+          SHOW_MASKED_TIME: true             # 如果有未分类时间，也计入总时间
+          COMMIT_MESSAGE: "Updated WakaTime stats"  # 自定义 commit 消息
