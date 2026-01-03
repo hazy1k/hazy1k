@@ -1,0 +1,29 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: zh
+          SHOW_LINES_OF_CODE: "True" # 显示截至日期写入的代码行数
+          SHOW_LOC_CHART: "False" # 年份不同季度编写的代码行数
+          SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
+          SHOW_OS: "True" # 显示系统
+          SHOW_PROJECTS: "True" # 显示项目
+          SHOW_TOTAL_CODE_TIME: "True" # 显示总编码时间
+          SHOW_COMMIT: "True" # 显示提交信息
+          SHOW_PROFILE_VIEWS: "True" # 设置为隐藏配置文件视图
+          SHOW_DAYS_OF_WEEK: "True"  # 一周中不同日期进行的提交
+          SHOW_LANGUAGE: "True" # 编码语言
+          SHOW_EDITORS: "True" # 编辑器
+          SHOW_LANGUAGE_PER_REPO: "True" #  
+          SYMBOL_VERSION: "2" # 设置为进度条的符
