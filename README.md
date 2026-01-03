@@ -91,8 +91,9 @@
 
 </div>
 
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+### 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC371,100:FF5F6D&height=150&section=footer" />
