@@ -1,31 +1,19 @@
 <div align="center">
-
   <!-- 优化标题横幅：字体适中，渐变色协调 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=hazy1k&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=嵌入式开发者%20|%20硬件工程师%20|%20电力自动化爱好者&descAlignY=58&descAlign=72" alt="Header" />
-
   <br>
-
+  
   👋 Hi, I'm hazy1k
-
   <br>
-
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2C9CDF&center=true&vCenter=true&width=800&lines=嵌入式Linux工程师+%7C+MCU开发+%7C+树莓派玩家;硬件驱动+电力自动化+电子技术爱好者;用代码点亮硬件，用硬件驱动未来)](https://git.io/typing-svg)
-
   <br><br>
-
   <!-- 社交与访问统计 -->
   <p>
     <a href="https://github.com/hazy1k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="a3023379126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://hazy1k.blog.csdn.net/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hazy1k&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/hazy1k?label=Followers&style=flat&color=FF5F6D" alt="followers" />
-    <img src="https://img.shields.io/github/stars/hazy1k?label=Stars&style=flat&color=FFC371" alt="stars" />
-  </p>
-
   <br>
 
   <!-- GitHub 统计卡片（radical 主题） -->
