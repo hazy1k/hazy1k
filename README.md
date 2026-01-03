@@ -65,10 +65,10 @@
 <div align="center">
 
   <!-- 支持的图标，确保全部能显示 -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,docker,cmake,raspberrypi,arduino" /><br><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,matlab,py" /><br><br>
 
   <!-- 可根据需要添加更多行 -->
-  <img src="https://skillicons.dev/icons?i=qt,js,html,css,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=arduino,clion,cmake,github,linux,md,pycharm,qt,raspberrypi" />
 
 </div>
 
