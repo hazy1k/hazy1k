@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 优化标题横幅：字体适中，渐变色协调 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=hazy1k&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=嵌入式开发者%20|%20硬件工程师%20|%20电力自动化爱好者&descAlignY=58&descAlign=72" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=hazy1k&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=嵌入式开发者%20|%20硬件工程师%20|%20电力自动化爱好者&descAlignY=58&descAlign=72" alt="Header" />
 
   <br>
 
@@ -16,15 +16,14 @@
   <!-- 社交与访问统计 -->
   <p>
     <a href="https://github.com/hazy1k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+    <a href="a3023379126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://hazy1k.blog.csdn.net/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=hazy1k&style=for-the-badge&color=blueviolet" />
-    <img src="https://img.shields.io/github/followers/hazy1k?style=for-the-badge&color=FF5F6D" />
-    <img src="https://img.shields.io/github/stars/hazy1k?style=for-the-badge&color=FFC371" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hazy1k&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/hazy1k?label=Followers&style=flat&color=FF5F6D" alt="followers" />
+    <img src="https://img.shields.io/github/stars/hazy1k?label=Stars&style=flat&color=FFC371" alt="stars" />
   </p>
 
   <br>
