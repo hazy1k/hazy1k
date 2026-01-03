@@ -1,0 +1,20 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '30 18 * * *'    # 每天 IST 00:00 左右（北京时间约凌晨 2:30）
+  workflow_dispatch:         # 允许手动触发
+
+jobs:
+  update-readme:
+    name: Update this repo's README with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_UPDATED_TIME: true
+          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+          COMMIT_USERNAME: github-actions[bot]
+          COMMIT_MESSAGE: Update waka-readme graph with new metrics
