@@ -16,4 +16,7 @@ jobs:
       - uses: athul/waka-readme@master  # 或你的 action
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time   # 添加这一行，显示所有时间统计（就不会是 No activity）
+          SHOW_DAYS_OF_WEEK: true  # 可选，其他自定义
+          SHOW_LANGUAGE: true
           # 其他参数...
