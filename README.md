@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 优化后的标题横幅 -->
+  <!-- 标题横幅 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=hazy1k&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=white&desc=嵌入式开发者%20|%20硬件工程师%20|%20电力自动化爱好者&descAlignY=58" />
 
   # 👋 Hi, I'm hazy1k 👋
@@ -63,12 +63,14 @@
 </tr>
 </table>
 
-<h2 align="center">🛠️ 技能与工具</h2>
+<h2 align="center">🛠️ 技能与工具（升级版）</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,docker,cmake" />
+  <!-- 第一行 -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,docker,cmake,keil,freertos" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ubuntu,debian,nginx,mysql,sqlite,postman,qt" />
+  <!-- 第二行 -->
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,ubuntu,debian,nginx,mysql,sqlite,postman,qt,i2c,spi,uart" />
 </div>
 
 <div align="center">
@@ -83,27 +85,44 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hazy1k&theme=radical" width="33%" />
 </div>
 
+<!-- 新增：Streak Stats -->
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=hazy1k&theme=radical&hide_border=true&border_radius=8&card_width=600" />
+</div>
+
+<!-- 新增：WakaTime Stats（需配置 secret） -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hazy1k&theme=radical&hide_border=true&layout=compact&langs_count=10" />
+</div>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hazy1k&theme=radical&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+</div>
+
+<!-- 新增：CSDN 最新文章 -->
+<h2 align="center">📝 最新 CSDN 文章</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=blogger&label=CSDN%20最新文章&query=%24.data[*].title&url=https%3A%2F%2Fblog-console-api.csdn.net%2Fv1%2Fblog%2Fconsole%2Farticle%3Fpage%3D1%26pageSize%3D4%26username%3Dhazy1k&color=FF5722&labelColor=000000&style=for-the-badge&maxAge=3600" />
+  <br><br>
+  <a href="https://hazy1k.blog.csdn.net">
+    <img src="https://badge.vercel.app/api/csdn/recent-articles/hazy1k?limit=4&theme=radical" />
+  </a>
 </div>
 
 <h2 align="center">📈 GitHub 活动</h2>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazy1k&theme=radical" width="100%" />
+  <!-- 新增：3D 像素风贡献蛇图 -->
+  <img src="https://raw.githubusercontent.com/hazy1k/hazy1k/output/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- 修复后的动态语录（已更换更稳定的服务端并正确编码中文） -->
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazy1k&theme=radical" width="100%" />
+
+<!-- 新增：随机嵌入式名言 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=1000&color=FF9190&center=true&vCenter=true&width=600&lines=%E4%BB%A3%E7%A0%81%E4%B8%8E%E7%A1%AC%E4%BB%B6%E7%9A%84%E8%9E%8D%E5%90%88%EF%BC%8C%E6%89%8D%E6%98%AF%E6%9C%80%E7%BE%8E%E7%9A%84%E5%B7%A5%E7%A8%8B;%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E8%A6%81%E6%87%82%E7%A1%AC%E4%BB%B6%E4%B9%9F%E8%A6%81%E6%87%82%E8%BD%AF%E4%BB%B6;%E6%AF%8F%E4%B8%80%E4%B8%AA%E8%B0%83%E8%AF%95%E9%83%BD%E6%98%AF%E4%B8%80%E6%AC%A1%E6%88%90%E9%95%BF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=6000&pause=2000&color=FF9190&center=true&vCenter=true&random=true&width=600&lines=代码与硬件的融合，才是最美的工程;一个好的嵌入式工程师，要懂硬件也要懂软件;每一个调试都是一次成长;硬件是骨骼，软件是灵魂;没有完美的代码，只有更稳定的系统;驱动写完，世界安静了;寄存器就是我的画布;中断来了，别慌，先喝口水;焊接是艺术，调试是修行;从原理图到上电那一刻，才叫真正的成就感" />
 </div>
 
 <h3 align="center">🎉 感谢访问我的 GitHub 主页！</h3>
