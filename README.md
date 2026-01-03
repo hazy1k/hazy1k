@@ -15,13 +15,7 @@
     <a href="https://hazy1k.blog.csdn.net/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   </p>
   <br>
-
-  <!-- GitHub 统计卡片（radical 主题） -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazy1k&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazy1k&layout=compact&theme=radical&hide_border=true" />
-  <br><br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hazy1k&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=hazy1k&theme=radical&no-frame=true&margin-w=15&row=1" />
 
 </div>
 
