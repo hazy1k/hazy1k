@@ -14,6 +14,9 @@
     <a href="a3023379126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://hazy1k.blog.csdn.net/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
   </p>
+      </a>
+    <img src="https://komarev.com/ghpvc/?username=hazy1k&style=for-the-badge" alt="Profile Views" />
+  </p>
   <br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hazy1k&theme=radical&hide_border=true" />
 
