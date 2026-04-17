@@ -20,43 +20,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 </div>
 
-<h2 align="center">📌 关于我</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>⚡ 嵌入式 Linux & 系统开发</b><br><br>
-      • 熟练使用 Yocto / Buildroot 定制嵌入式 Linux 系统<br>
-      • 深度开发设备树、内核驱动、文件系统<br>
-      • 优化启动速度与系统性能<br>
-      • 跨平台移植与系统集成
-    </td>
-    <td width="33%" valign="top">
-      <b>🖱️ MCU & 裸机开发</b><br><br>
-      • 精通 STM32、ESP32、NXP、GD32 等主流 MCU<br>
-      • 熟练使用 HAL/LL 库、RTOS（FreeRTOS）<br>
-      • 外设驱动开发（UART、SPI、I2C、ADC、PWM 等）<br>
-      • 低功耗设计与固件优化
-    </td>
-    <td width="34%" valign="top">
-      <b>🔌 硬件工程 & 电力自动化</b><br><br>
-      • 电力监控、保护与自动化系统设计<br>
-      • 传感器采集与信号调理电路<br>
-      • 工业协议（Modbus、IEC61850、DNP3）<br>
-      • 电力电子与能源管理系统
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" valign="top" style="padding-top: 30px;">
-      <b>🍓 树莓派 & 单板计算机</b><br><br>
-      • Python 与 C/C++ 跨平台开发<br>
-      • GPIO、摄像头、显示屏等外设控制<br>
-      • Home Assistant、智能家居与 IoT 项目<br>
-      • 网络服务部署与边缘计算
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">🛠️ 技能与工具</h2>
 
 <div align="center">
