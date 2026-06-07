@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2024 - To: 04 June 2026
+From: 11 June 2024 - To: 06 June 2026
 
-Total Time: 361 hrs 10 mins
+Total Time: 361 hrs 16 mins
 
-C                    288 hrs 18 mins       ████████████████████░░░░░   79.83 %
-Python               30 hrs 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-C++                  13 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+C                    288 hrs 24 mins       ████████████████████░░░░░   79.83 %
+Python               30 hrs 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+C++                  13 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 Other                13 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 Text                 4 hrs 46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 MATLAB               3 hrs 30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
